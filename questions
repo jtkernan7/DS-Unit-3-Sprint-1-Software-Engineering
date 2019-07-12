@@ -1,0 +1,13 @@
+part 7
+
+I think it is really important to first check the functionality of code to make sure
+it is doing what it is supposed to. Then I think readability and cleanliness of
+code is important to pay attention to as well.
+
+part 8
+
+containers like docker could be very useful to any business utilizing an IT department
+and programmers. It allows one to easy reproduce the environment in which
+the program was written. Not only that but it is essentially running the program on the
+same system so that there would not be and issues from one to another.
+It all around makes the deployment smooth.
